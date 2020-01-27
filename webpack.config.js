@@ -1,7 +1,9 @@
 module.exports = {
   entry: [
     './src/index.js',
-    './src/timer.js'
+    './src/timer.js',
+    './src/mainContent.js',
+    './src/subna.js'
   ],
   module: {
     rules: [
