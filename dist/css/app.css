@@ -4,6 +4,7 @@
 }
 .column-6{
 	padding-left: 20px;
+	width: 20%;
 	color : blue;
 }
 #root {
@@ -16,6 +17,8 @@ h1{
 
 .column-17{
 	color : red;
+	width: 70%;
+	height: 500px;
 	margin-left : 15px;
 }
 
